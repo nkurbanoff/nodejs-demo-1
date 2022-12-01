@@ -1,0 +1,28 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "browser": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Nariman Kurbanov",
+  "license": "ISC",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nkurbanoff/"
+  },
+  "bugs": {
+    "url": "https://github.com/nkurbanoff/weather-cli/",
+    "email": "nkurbanoff@gmail.com"
+  }
+  
+}
